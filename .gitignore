@@ -1,5 +1,7 @@
 */*.txt
 */*.html
 */*.php
+*/.htaccess
 */wp-admin
 */wp-includes
+*/wp-content/index.php
